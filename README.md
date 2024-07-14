@@ -17,9 +17,9 @@ Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Si
 
 ## Como me encontrar
 - 📫 Você pode entrar em contato comigo pelo:  
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandraRojasZ.)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandraRojasZ)
 - 🌐 Você pode conhecer mais sobre mim no meu perfil:            
-   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sandra-zegarrundo)
+   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-zegarrundo)
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SandraRojasZ&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
