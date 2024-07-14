@@ -8,7 +8,7 @@ Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Si
 ## O que estou fazendo
 - 💼 Atualmente, estou trabalhando como Analista de Finanças.
 - 📚 Estou sempre aprendendo e me atualizando sobre Python, AWS e IA.
-- 💡 Estou trabalhando em tornar especialista em Python.
+- 💡 Estou trabalhando em tornar-me especialista em Python.
 
 ## O que eu posso fazer
 - 🤖 Tenho experiência em C, SQL, Python, PHP, HMTL, JAVA e Power BI.
