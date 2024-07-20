@@ -3,12 +3,15 @@
 ## Bem-vindo ao meu perfil! 👋
 
 ## Sobre mim
-Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas. Tenho interesse por Python, AWS, SQL, PHP, HTML, CSS, JAVA e estou sempre procurando aprender.
+Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas.
+A paixão pelo aprendizado contínuo me move!  
+Além das minhas áreas de atuação em Finanças, tenho me dedicado ao estudo de Python, IA e AWS. 
+Essa jornada me permite explorar novas fronteiras e desenvolver projetos pessoais que aliam tecnologia e criatividade.
 
 ## O que estou fazendo
-- 💼 Atualmente, estou trabalhando como Analista de Finanças.
-- 📚 Estou sempre aprendendo e me atualizando sobre Python, AWS e IA.
-- 💡 Estou trabalhando em tornar-me especialista em Python.
+- 💼 Estou trabalhando como Analista de Finanças.
+- 📚 Busco constantemente aprimorar minhas habilidades, especialmente em Finanças e Tecnologia.
+- 💡 Atualmente, estou aprofundando meus conhecimentos em Python, IA e AWS.
 
 ## O que eu posso fazer
 - 🤖 Tenho experiência em C, SQL, Python, PHP, HMTL, JAVA e Power BI.
