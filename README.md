@@ -34,8 +34,8 @@ Essa jornada me permite explorar novas fronteiras e desenvolver projetos pessoai
 Se você está interessado em Automação, Análise de Dados ou Hackathon, vamos conversar! Você pode me encontrar no 
 [LinkedIn](https://www.linkedin.com/in/sandra-zegarrundo).
 
-## Obrigado por visitar!
-Obrigado por verificar meu perfil. Fique à vontade para explorar meus projetos e entrar em contato!
+## Obrigada por visitar!
+Obrigada por verificar meu perfil. Fique à vontade para explorar meus projetos e entrar em contato!
 
 ### Habilidades
 
