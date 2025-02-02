@@ -14,7 +14,7 @@ Essa jornada me permite explorar novas fronteiras e desenvolver projetos pessoai
 - 💡 Atualmente, estou aprofundando meus conhecimentos em Python, IA e AWS.
 
 ## O que eu posso fazer
-- 🤖 Tenho experiência em C, SQL, Python, PHP, HMTL, JAVA e Power BI.
+- 🤖 Tenho experiência em SQL, Python, PHP, HMTL, Laravel com Livewire, JAVA e Power BI.
 - 💬 Posso ajudar com Ciência de Dados.
 - 📝 Posso colaborar em projetos relacionados a Análise de Dados, Projeções e Dashboard.
 
@@ -31,8 +31,7 @@ Essa jornada me permite explorar novas fronteiras e desenvolver projetos pessoai
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraRojasZ&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Vamos nos conectar
-Se você está interessado em Automação, Análise de Dados ou Hackathon, vamos conversar! Você pode me encontrar no 
-[LinkedIn](https://www.linkedin.com/in/sandra-zegarrundo).
+Se você está interessado em Automação, Análise de Dados ou Hackathon, vamos conversar!
 
 ## Obrigada por visitar!
 Obrigada por verificar meu perfil. Fique à vontade para explorar meus projetos e entrar em contato!
@@ -45,6 +44,8 @@ Obrigada por verificar meu perfil. Fique à vontade para explorar meus projetos 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-0D1117?style=for-the-badge&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
