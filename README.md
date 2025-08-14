@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu perfil! 👋
 
 ## Sobre mim
-Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas.
+Me chamo Sandra e tenho gradução em Tecnologia em Ciência Econômicas e Análise e Desenvolvimento de Sistemas.
 A paixão pelo aprendizado contínuo me move!  
 Além das minhas áreas de atuação em Finanças, tenho me dedicado ao estudo de Python, IA e AWS. 
 Essa jornada me permite explorar novas fronteiras e desenvolver projetos pessoais que aliam tecnologia e criatividade.
@@ -15,7 +15,7 @@ Essa jornada me permite explorar novas fronteiras e desenvolver projetos pessoai
 
 ## O que eu posso fazer
 - 🤖 Tenho experiência em SQL, Python, PHP, HMTL, Laravel com Livewire, JAVA e Power BI.
-- 💬 Posso ajudar com Ciência de Dados.
+- 💬 Posso ajudar com Ciência de Dados e Desenvolvimento de Softwares.
 - 📝 Posso colaborar em projetos relacionados a Análise de Dados, Projeções e Dashboard.
 
 ## Como me encontrar
@@ -49,3 +49,4 @@ Obrigada por verificar meu perfil. Fique à vontade para explorar meus projetos 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
