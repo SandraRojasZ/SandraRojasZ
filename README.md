@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu perfil! 👋
 
 ## Sobre mim
-Me chamo Sandra e tenho graduação em Tecnologia em Ciência Econômicas e Análise e Desenvolvimento de Sistemas.
+Me chamo Sandra e tenho graduação em Ciências Econômicas e Tecnologia Análise e Desenvolvimento de Sistemas.
 A paixão pelo aprendizado contínuo me move!  
 Além das minhas áreas de atuação em Finanças, tenho me dedicado ao estudo de Python, IA e AWS. 
 Essa jornada me permite explorar novas fronteiras e desenvolver projetos pessoais que aliam tecnologia e criatividade.
